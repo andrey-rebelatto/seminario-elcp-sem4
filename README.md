@@ -1,6 +1,6 @@
 # Idealismo · Seminário ELCP
 
-Apresentação de Andrey, Eduardo e Erick, semana 4. Dez slides sobre Platão, Kant e o papel das ideias nas escolhas sociais e tecnológicas, com um caso hipotético de seleção de bolsas de estudo.
+Apresentação de Andrey, Eduardo e Erick, disciplina Ética e Legislação em Computação. Dez slides sobre Platão, Kant e o papel das ideias nas escolhas sociais e tecnológicas, com um caso hipotético de seleção de bolsas de estudo.
 
 Abra `index.html` em um navegador. O projeto funciona localmente, sem instalação, conexão com a internet ou compilação. As fontes e imagens estão em `assets/`.
 
@@ -13,7 +13,7 @@ O arquivo `seminario-idealismo.pdf` contém a versão de entrega, em dez página
 - Roda do mouse ou gestos de toque: navegar.
 - `F`: alternar tela cheia. F11 também pode ser usado pelo navegador.
 - `N`: abrir as notas do slide, incluindo responsável e tempo sugerido. Esc fecha as notas.
-- Botão `PDF`: abrir a impressão. Para exportar novamente, ative gráficos de fundo e desative cabeçalhos e rodapés do navegador.
+- Ctrl+P ou Cmd+P: abrir a impressão. Para exportar novamente, ative gráficos de fundo e desative cabeçalhos e rodapés do navegador.
 
 A fala planejada ocupa cerca de 9min30, incluindo passagens, dentro do limite de dez minutos. As notas são apoio ao ensaio; não substituem a explicação oral.
 
@@ -36,7 +36,7 @@ O exemplo de bolsas é uma aplicação do grupo, não uma proposta atribuída a 
 
 ## Visual e arquivos
 
-A direção visual parte da referência [Hermes Agent](https://hermes-agent.nousresearch.com/), adaptada para azul-marinho, tipografia condensada, gravuras e linhas radiais. Não utiliza código, fontes proprietárias ou imagens extraídas desse site.
+A direção visual parte da referência [Hermes Agent](https://hermes-agent.nousresearch.com/), adaptada para azul-marinho, tipografia condensada e composições minimalistas. A capa usa apenas texto; as gravuras aparecem nos slides dos filósofos. Não utiliza código, fontes proprietárias ou imagens extraídas desse site.
 
 As cores, os tamanhos e os espaçamentos podem ser ajustados nas variáveis CSS em `:root`, no início de `index.html`. O CSS e o JavaScript estão no próprio HTML.
 
